@@ -13,7 +13,7 @@
 
 ## 🗃️ &nbsp;Skills
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,js,react,nodejs,postgres,mongo,git,vscode,docker,postman,linux,firebase&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,react,nodejs,postgres,mongo,git,vscode,docker,postman,linux,firebase&perline=12"  />
 </p>
 
 ## ⚙️ &nbsp;GitHub Analytics
