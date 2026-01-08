@@ -1,3 +1,4 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <div align="center">
 <h1 align="center">Hi there!, I'm <a href="https://aristi.dev">Nicolas Lazaro</a> 👋</h1>
 <p align="center">
@@ -5,13 +6,15 @@
 </p>
 </div>
 
-## About Me
+## ⭐ &nbsp;About Me
 - 🎓 Currently studying Computer Engineering at Universidad Argentina de la Empresa (UADE).\
 - 💡 I like to explore new technologies and develop software solutions.\
 - 🌱 Diving deeper into Node.js and Nest.js.\
 - 📝 Open to work! You can view my _[Resume here](www.linkedin.com/in/nicolás-manuel-lázaro-3972b4168)_
 
-### ⚙️ &nbsp;GitHub Analytics
+## 🗃️ &nbsp;Skills
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/nmlazaro">
